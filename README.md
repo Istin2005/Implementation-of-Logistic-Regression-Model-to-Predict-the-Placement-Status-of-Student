@@ -25,13 +25,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: ISTIN B
-RegisterNumber: 212223040068 
+Developed by: Abisheik R
+RegisterNumber: 212223040005
 */
 ```
 
-
-```import pandas as pd
+```
+import pandas as pd
 data=pd.read_csv("C:/Users/Aadhi/Documents/ML/Placement_Data ex 04.csv")
 data.head()
 data1=data.copy()
@@ -67,10 +67,11 @@ accuracy
 from sklearn.metrics import classification_report
 classification_report1=classification_report(y_test,y_pred)
 print(classification_report1)
-lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])```
+lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
+```
+
 
 ## Output:
-
 ![Screenshot 2024-03-12 092725](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/8c80c2f9-e157-4f1b-8384-d2e658ccb857)
 ![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/e86d4886-e799-4bf6-8308-164f87d7e7d0)
 ![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/c5196916-5dac-4bba-be95-68b9b32706d8)
@@ -82,7 +83,6 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])```
 ![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/689e295f-10e8-4672-a6f9-2d07782515c2)
 ![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/a6fbdf2b-9678-4285-b3df-a9eeacb95630)
 ![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/0167b310-ffe2-47e5-b806-55f1e122f71b)
-
 
 
 ## Result:
