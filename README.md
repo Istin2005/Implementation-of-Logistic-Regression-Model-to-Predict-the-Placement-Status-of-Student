@@ -71,6 +71,18 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])```
 
 ## Output:
 
+![Screenshot 2024-03-12 092725](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/8c80c2f9-e157-4f1b-8384-d2e658ccb857)
+![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/e86d4886-e799-4bf6-8308-164f87d7e7d0)
+![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/c5196916-5dac-4bba-be95-68b9b32706d8)
+![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/7b061b35-baf9-4e25-9432-ded1e2deeb00)
+![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/209478f5-b241-434c-866b-35cc34dba07f)
+![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/8a7ccb2d-a053-4f3b-9ec0-1281b5cd5c2f)
+![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/c3ef3ee1-a773-494f-bc6c-50474d8f2182)
+![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/36816028-3928-4c20-b0be-1701733160d6)
+![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/689e295f-10e8-4672-a6f9-2d07782515c2)
+![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/a6fbdf2b-9678-4285-b3df-a9eeacb95630)
+![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/0167b310-ffe2-47e5-b806-55f1e122f71b)
+
 
 
 ## Result:
