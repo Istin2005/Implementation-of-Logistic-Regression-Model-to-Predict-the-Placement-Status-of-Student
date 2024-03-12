@@ -22,12 +22,13 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 7.Apply new unknown values\
 ## Program:
-
+```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: ISTIN B
 RegisterNumber: 212223040068 
 */
+```
 
 
 ```import pandas as pd
@@ -69,7 +70,7 @@ print(classification_report1)
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])```
 
 ## Output:
-![the Logistic Regression Model to Predict the Placement Status of Student](sam.png)
+
 ![Screenshot 2024-03-12 092725](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/8c80c2f9-e157-4f1b-8384-d2e658ccb857)
 ![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/e86d4886-e799-4bf6-8308-164f87d7e7d0)
 ![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/c5196916-5dac-4bba-be95-68b9b32706d8)
