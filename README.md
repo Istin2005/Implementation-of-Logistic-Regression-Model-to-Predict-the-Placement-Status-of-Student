@@ -72,13 +72,21 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])```
 
 ## Output:
 ##1.placementdata
+
 ![Screenshot 2024-03-12 092725](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/8c80c2f9-e157-4f1b-8384-d2e658ccb857)
+
 ## 2.Salary Data
+
 ![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/e86d4886-e799-4bf6-8308-164f87d7e7d0)
+
 ## 3. Checking the null function()
+
 ![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/c5196916-5dac-4bba-be95-68b9b32706d8)
+
 ## 4.Data Duplicate
+
 ![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/7b061b35-baf9-4e25-9432-ded1e2deeb00)
+
 ## 5.Print Data
 ![image](https://github.com/Dharma23012432/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/152275002/209478f5-b241-434c-866b-35cc34dba07f)
 
